@@ -1,0 +1,9 @@
+c:\users\esra\onedrive\belgeler\visual studio 2015\Projects\cs408_project_client\cs408_project_client\bin\Debug\cs408_project_client.exe.config
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\bin\Debug\cs408_project_client.exe
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\bin\Debug\cs408_project_client.pdb
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\obj\Debug\cs408_project_client.csprojResolveAssemblyReference.cache
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\obj\Debug\cs408_project_client.Form1.resources
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\obj\Debug\cs408_project_client.Properties.Resources.resources
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\obj\Debug\cs408_project_client.csproj.GenerateResource.Cache
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\obj\Debug\cs408_project_client.exe
+C:\Users\ESRA\OneDrive\Belgeler\Visual Studio 2015\Projects\cs408_project_client\cs408_project_client\obj\Debug\cs408_project_client.pdb
