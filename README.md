@@ -1,8 +1,12 @@
 # ComputerNetworks_Project
 #This project was held by:
+
     Esra Nur Özüm
+    
     Selin Ağan
+    
     Elif Aydın
+    
 
 Developed a basic social networking application called SUBook (an oversimplified version of Facebook) and implemented client and server modules. 
 
