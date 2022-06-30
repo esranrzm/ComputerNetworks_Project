@@ -16,9 +16,13 @@ On the server side, there is a predefined database of users which are presumed t
 
 In the second phase of the project client and server modules modified to add more functionalities.
 The following features are added to the application:
+
     1. Requesting post feed posted by friends only.
+    
     2. Adding and removing friends.
+    
     3. Being able to see your friend list.
+    
     4. Deleting own posts.
 
 
